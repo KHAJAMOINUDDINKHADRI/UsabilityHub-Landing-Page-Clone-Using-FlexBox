@@ -123,7 +123,7 @@ ul {
 /* Nav section */
 
 .main-nav {
-    margin: 20px;
+    margin: 20px auto 0;
     justify-content: space-between;
     position: relative;
 }
@@ -219,6 +219,7 @@ header {
     gap: 20px;
     max-width: 30%;
     text-align: center ;
+    margin-bottom: 20px;
 }
 .features-card img {
     width: 60px;
